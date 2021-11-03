@@ -1,0 +1,19 @@
+.topic{
+    font-size: medium;
+    font-family: 'Times New Roman';
+    color: orangered;
+}
+
+
+table {
+    border: 1px solid black;
+}
+        
+td {
+    padding: 2px;
+    border: 1px solid black;
+}
+
+.leader{
+    color: tomato;
+}
