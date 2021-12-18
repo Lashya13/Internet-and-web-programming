@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<contact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="newXML.xsd">
+<username>xxx</username>
+<email>xxx@gmail.com</email>
+<RollNo>18BCS000</RollNo>
+<Dept>KCT</Dept>
+<Marks>80</Marks>
+	
+
+</contact>

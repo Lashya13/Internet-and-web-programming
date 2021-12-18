@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<catalog>
+  <cd>
+    <name>Lashya</name>
+    <rollno>18BCS045</rollno>
+    <mark>80</mark>
+  </cd>
+<cd>
+    <name>xxx</name>
+    <rollno>18BCS000</rollno>
+    <mark>82</mark>
+  </cd>
+<cd>
+    <name>yyy</name>
+    <rollno>18BCS004</rollno>
+    <mark>83</mark>
+  </cd>
+<cd>
+    <name>zzz</name>
+    <rollno>18BCS003</rollno>
+    <mark>85</mark> 
+  </cd>
+<cd>
+    <name>aaa</name>
+    <rollno>18BCS002</rollno>
+    <mark>88</mark>
+  </cd>
+<cd>
+    <name>bbb</name>
+    <rollno>18BCS001</rollno>
+    <mark>90</mark>
+  </cd>
+
+</catalog>
